@@ -4,7 +4,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sneha-p1/Sneha-p1/main/ai-generated-8775232_1280.webp" height="400" width="500" />
+  <img src="https://raw.githubusercontent.com/Sneha-p1/Sneha-p1/main/ai-generated-8775232_1280.webp" height="350" width="450" />
 </div>
 
 ## 💫 About Me :
