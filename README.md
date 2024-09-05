@@ -5,7 +5,7 @@
 </div>
 
 ## 📫 How to reach me :
-- **snehaparambadan@gmail.com**
+📫**snehaparambadan@gmail.com**
 
 ## 🌐 Connect with me :
 
