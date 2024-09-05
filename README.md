@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sneha P</h1>
 <h3 align="center">Fullstack Developer | Blockchain Enthusiast</h3>
- <img align="center" src="https://raw.githubusercontent.com/Sneha-p1/Sneha-p1/main/ai-generated-8775232_1280.webp" height="400" width="500" /></a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sneha-p1/Sneha-p1/main/ai-generated-8775232_1280.webp" height="400" width="500" />
+</div>
 
 - 📫 How to reach me
 - **snehaparambadan@gmail.com**
