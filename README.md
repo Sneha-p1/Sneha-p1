@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/sneha-parambadan-b1aaa5215" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/search?sca_esv=abed81e574b41454&q=a+girl+animated+coding+images&udm=2&fbs=AEQNm0BKxFXqFZETuC92mLOmXO9xTuwl7LTqpjEikSHB2sNnAo_Nt6_jBoO5j_EG4ZXs8aQCufxT5WhqKxk_t3EFVMM67rI6i01ADbZ-a5wYaAsalDcO6S1GH-LO2-BpNO0GjKIvvxoXnjjP08V8RmhXnS3ZTYi7mGxclhyNM7kU-cEZojmfYb66zxZupqQ3TpTT-qjAIEt1CwlZuUTZOKSe8wS1nEmI6w&sa=X&ved=2ahUKEwjP48qegqyIAxVIS2wGHTgtAj4QtKgLegQIEBAB&biw=1296&bih=660&dpr=1#vhid=1OLArTYospKR9M&vssid=mosaic)" alt="linkedin.com/in/sneha-parambadan-b1aaa5215" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/sneha-parambadan-b1aaa5215" target="blank"><img align="center" src=" " height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
