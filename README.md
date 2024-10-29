@@ -38,6 +38,10 @@ Hey there! I’m a student exploring the realms of web development by day and di
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-%23000f%20.svg?style=flat-square&logo=test&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2300b0d4.svg?style=flat-square&logo=selenium&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-%23171717.svg?style=flat-square&logo=hardhat&logoColor=yellow)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-%232F3134.svg?style=flat-square&logo=hyperledger&logoColor=white)
+
 
 ## :octocat: GitHub Stats :
 
