@@ -2,7 +2,7 @@
 <h3 align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFC0CB&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer+💻;Blockchain+Developer+🔗" 
-    alt="Typing SVG" 
+    alt="Typing animation showing MERN Stack Developer and Blockchain Developer" 
   />
 </h3>
 
