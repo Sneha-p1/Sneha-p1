@@ -1,7 +1,7 @@
 <!-- Header with animated gradient -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sneha+P;MERN+%26+Blockchain+Developer;Building+Web3+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sneha+P;MERN+%26+Blockchain+Developer" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -10,11 +10,8 @@
 </div>
 
 ## 💫 About Me
-> *"Turning coffee into code and ideas into blockchain solutions"* ☕➡️💻
 
 I'm a passionate **Full Stack Developer** specializing in **MERN stack** and **Blockchain technologies**. Currently building cutting-edge web applications and decentralized solutions. When I'm not coding, you'll find me exploring new tech trends or contributing to open-source projects.
-
-🔭 **Currently working on:** Web3 DApps  
 
 ## 🛠️ Tech Stack
 
@@ -76,11 +73,4 @@ I'm a passionate **Full Stack Developer** specializing in **MERN stack** and **B
   <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</div>
-
-## 💻 Featured Projects
-> *Coming soon! Stay tuned for exciting blockchain projects...*
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneha-p1&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph" />
 </div>
