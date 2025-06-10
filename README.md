@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-I'm a passionate **Full Stack Developer** specializing in **MERN stack** and **Blockchain technologies**. Currently building cutting-edge web applications and decentralized solutions. When I'm not coding, you'll find me exploring new tech trends or contributing to open-source projects.
+Hey there! I’m a MERN Stack Developer and Blockchain Developer, currently working and building exciting web and decentralized applications. 🚀 I love crafting fullstack solutions and exploring the blockchain universe through real-world projects.
 
 ## 🛠️ Tech Stack
 
