@@ -1,53 +1,86 @@
-<h1 align="center">Hi 👋, I'm Sneha P</h1>
+<!-- Header with animated gradient -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sneha+P;MERN+%26+Blockchain+Developer;Building+Web3+Solutions" alt="Typing SVG" />
+  </a>
+</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sneha-p1/Sneha-p1/main/ai-generated-8775232_1280.webp" height="350" width="450" />
+  <img src="https://raw.githubusercontent.com/Sneha-p1/Sneha-p1/main/ai-generated-8775232_1280.webp" height="350" width="450" alt="Coding Illustration" />
 </div>
 
-## 💫 About Me :
-Hey there! I’m a MERN Stack Developer and Blockchain Developer, currently working and building exciting web and decentralized applications. 🚀 I love crafting fullstack solutions and exploring the blockchain universe through real-world projects.
+## 💫 About Me
+> *"Turning coffee into code and ideas into blockchain solutions"* ☕➡️💻
 
-## 📫 How to reach me :
-**snehaparambadan@gmail.com**
+I'm a passionate **Full Stack Developer** specializing in **MERN stack** and **Blockchain technologies**. Currently building cutting-edge web applications and decentralized solutions. When I'm not coding, you'll find me exploring new tech trends or contributing to open-source projects.
 
-## 🌐 Connect with me :
+🔭 **Currently working on:** Web3 DApps  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sneha-parambadan-b1aaa5215)
+## 🛠️ Tech Stack
 
-## 🖥️ Tech Stack :
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7?style=flat-square&logo=github&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-%23039BE5.svg?style=flat-square&logo=vite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-%23000f%20.svg?style=flat-square&logo=test&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%2300b0d4.svg?style=flat-square&logo=selenium&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=flat-square&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-%23171717.svg?style=flat-square&logo=hardhat&logoColor=yellow)
-![Hyperledger](https://img.shields.io/badge/Hyperledger-%232F3134.svg?style=flat-square&logo=hyperledger&logoColor=white)
+### 🔗 Blockchain Development
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=for-the-badge)
+![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?logo=hardhat&logoColor=black&style=for-the-badge)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white&style=for-the-badge)
+![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?logo=hyperledger&logoColor=white&style=for-the-badge)
 
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)
 
-## :octocat: GitHub Stats :
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sneha-p1&show_icons=true&theme=dark&count_private=true)
+<div align="center">
+  <a href="https://github.com/Sneha-p1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sneha-p1&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-p1&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  </a>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sneha-p1&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Sneha-p1&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
 
-### 💻 Most Used Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-p1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sneha-p1&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
+## 🌐 Connect With Me
 
+<div align="center">
+  <a href="https://linkedin.com/in/sneha-parambadan-b1aaa5215">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:snehaparambadan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
 
+## 💻 Featured Projects
+> *Coming soon! Stay tuned for exciting blockchain projects...*
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneha-p1&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph" />
+</div>
