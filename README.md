@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sneha P</h1>
-<h3 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFC0CB&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer+💻;Blockchain+Developer+🔗" 
-    alt="Typing animation showing MERN Stack Developer and Blockchain Developer" 
-  />
-</h3>
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sneha-p1/Sneha-p1/main/ai-generated-8775232_1280.webp" height="350" width="450" />
