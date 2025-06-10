@@ -8,7 +8,7 @@
 </div>
 
 ## 💫 About Me :
-Hey there! I’m a student exploring the realms of web development by day and diving into the blockchain universe through my PG diploma. 🚀 Currently, I’m diving deep into MERN stack development while exploring the fascinating world of decentralized technologies.
+Hey there! I’m a MERN Stack Developer and Blockchain Developer, currently working and building exciting web and decentralized applications. 🚀 I love crafting fullstack solutions and exploring the blockchain universe through real-world projects.
 
 ## 📫 How to reach me :
 **snehaparambadan@gmail.com**
